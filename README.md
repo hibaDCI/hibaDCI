@@ -32,6 +32,8 @@ Stacks I've worked with : MERN , React+Firebase , Python+Selenium .
  <img  alt="Sass" src="https://rawgit.com/sass/sass-site/main/source/assets/img/logos/logo.svg"  width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+
+   <img src=" https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb" alt="Mongodb" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
