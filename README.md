@@ -35,7 +35,7 @@ Stacks I've worked with : MERN , React+Firebase , Python+Selenium .
 
    <img src=" https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongodb" alt="Mongodb" width="60" height="60"/>&nbsp;
-<img src="[https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 <!--
 **hibaDCI/hibaDCI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
